@@ -36,5 +36,6 @@ __What are you__ in this life?
 ## persons of interest
 [Abraham Lincoln][1] <br>
 [Elon Musk][2] <br>
-![Jeff Bezos][3](https://github.com/maekyngrigs10/AboutMe/blob/main/img/pony.png)
+[Jeff Bezos][3]
+<img src="https://github.com/maekyngrigs10/AboutMe/blob/main/img/pony.png" height="100px" width="200px">
 
