@@ -39,10 +39,10 @@ __What are you__ in this life?
 [Jeff Bezos][3] <br>
 <img src="https://github.com/maekyngrigs10/AboutMe/blob/main/img/pony.png" height="100px" width="200px">
 
-| CS Terms |
-| ---      |
-| Vivid |
-| Oriflamme |
-| eccentric |
-| Supine |
+| Terms | Definitions |
+| :- | :---: |
+| Vivid | Powerful intensive color|
+| Oriflamme | A knight's battle standard |
+| eccentric | of unconvential character|
+| Supine | Lying face upward |
 
