@@ -34,7 +34,7 @@ __What are you__ in this life?
 [I'm being tagged][I have a NEW HOME]
 
 ## persons of interest
-[Abraham Lincoln][1]
-[Elon Musk][2]
-[Jeff Bezos][3]
+[Abraham Lincoln][1]<br>
+[Elon Musk][2]<br>
+[Jeff Bezos][3]<br>
 
