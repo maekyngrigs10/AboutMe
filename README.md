@@ -39,10 +39,10 @@ __What are you__ in this life?
 [Jeff Bezos][3] <br>
 <img src="https://github.com/maekyngrigs10/AboutMe/blob/main/img/pony.png" height="100px" width="200px">
 
-| Terms | Definitions |
-| :- | :---: |
-| Vivid | Powerful intensive color|
-| Oriflamme | A knight's battle standard |
-| eccentric | of unconvential character|
-| Supine | Lying face upward |
+| Terms | Definitions | My Meaning |
+| :- | :---: | -: |
+| Vivid | Powerful intensive color| Of bright color|
+| Oriflamme | A knight's battle standard | Knight's battle standard|
+| eccentric | of unconvential character| Of strange character|
+| Supine | Lying face upward | facing up|
 
